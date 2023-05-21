@@ -1,8 +1,8 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = [
-    'title'          => 'DA-Lex',
-    'description'    => 'Create and manage lexicographic data in TYPO3',
+    'title'          => 'DA Quality',
+    'description'    => 'Quality assurance routines for research data in TYPO3',
     'category'       => 'misc',
     'author'         => 'Jonatan Jalle Steller',
     'author_email'   => 'jonatan.steller@adwmainz.de',
@@ -21,7 +21,7 @@ $EM_CONF[$_EXTKEY] = [
     ],
     'autoload'       => [
         'psr-4' => [
-           'Digicademy\\DALex\\' => 'Classes/'
+           'Digicademy\\DAQuality\\' => 'Classes/'
         ]
      ]
 ];
