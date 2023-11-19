@@ -1,26 +1,29 @@
 {
-    "name": "digicademy/da-quality",
+    "name": "digicademy/vis",
     "type": "typo3-cms-extension",
-    "description": "Quality assurance routines for research data in TYPO3",
+    "description": "Visualisation capabilities for research data in TYPO3",
     "authors": [
         {
             "name": "Jonatan Jalle Steller",
             "email": "jonatan.steller@adwmainz.de",
             "role": "Developer",
             "homepage": "https://www.adwmainz.de"
+        },
+        {
+            "name": "VIS contributors"
         }
     ],
     "license": "GPL-2.0-or-later",
-    "homepage": "https://gitlab.rlp.net/adwmainz/digicademy/t3xdev/da-quality",
+    "homepage": "https://extensions.typo3.org/extension/vis",
     "support": {
-        "issues": "https://gitlab.rlp.net/adwmainz/digicademy/t3xdev/da-quality/-/issues",
-        "source": "https://gitlab.rlp.net/adwmainz/digicademy/t3xdev/da-quality",
-        "docs": "https://adwmainz.pages.gitlab.rlp.net/digicademy/t3xdev/da-quality"
+        "issues": "https://github.com/digicademy/vis/issues",
+        "source": "https://github.com/digicademy/vis",
+        "docs": "https://digicademy.github.io/vis"
     },
     "keywords": [
         "TYPO3",
-        "Quality assurance",
-        "Quality control",
+        "Visualisation",
+        "Illustration",
         "Data",
         "Research",
         "Academia",
@@ -31,12 +34,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Digicademy\\DAQuality\\": "Classes/"
+            "Digicademy\\VIS\\": "Classes/"
         }
     },
     "extra": {
         "typo3/cms": {
-            "extension-key": "da_quality"
+            "extension-key": "vis"
         }
     }
 }
