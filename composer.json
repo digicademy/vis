@@ -30,7 +30,7 @@
         "Academic"
     ],
     "require": {
-        "typo3/cms-core": "^12"
+        "typo3/cms-core": "^13"
     },
     "autoload": {
         "psr-4": {
