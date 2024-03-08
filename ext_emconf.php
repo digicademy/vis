@@ -1,5 +1,4 @@
 <?php
-defined('TYPO3') or die();
 
 $EM_CONF[$_EXTKEY] = [
     'title'          => 'VIS',
@@ -8,7 +7,7 @@ $EM_CONF[$_EXTKEY] = [
     'author'         => 'Jonatan Jalle Steller',
     'author_email'   => 'jonatan.steller@adwmainz.de',
     'author_company' => 'Academy of Sciences and Literature Mainz',
-    'state'          => 'beta',
+    'state'          => 'stable',
     'version'        => '0.1.0',
     'constraints'    => [
         'depends'   => [
