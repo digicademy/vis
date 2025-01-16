@@ -28,17 +28,3 @@ that helps you build web apps to produce and publish data in the humanities.
 :Repository:  https://github.com/digicademy/vis
 :Read online: https://digicademy.github.io/vis
 :TER:         https://extensions.typo3.org/extension/vis
-
-Roadmap
-=======
-
-This is a pre-release version. The following steps are required for the software to move out of beta:
-
-- Implement initial set of visualisations
-- Add frontend plugins to use visualisations
-- Provide templates where necessary
-- Add API documentation
-
-**Beyond 2.0.0**
-
-- Add testing
