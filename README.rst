@@ -1,5 +1,5 @@
-..  image:: https://img.shields.io/badge/PHP-8.2/8.3-blue.svg
-    :alt: PHP 8.2/8.3
+..  image:: https://img.shields.io/badge/PHP-8.2/8.4-blue.svg
+    :alt: PHP 8.2/8.4
     :target: https://www.php.net/downloads
 
 ..  image:: https://img.shields.io/badge/TYPO3-13-orange.svg
