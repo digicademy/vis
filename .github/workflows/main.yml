@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set up GitHub Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
         id: pages
       - name: Render documentation
         uses: TYPO3-Documentation/gh-render-action@main
