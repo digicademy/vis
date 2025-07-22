@@ -3,7 +3,7 @@
 $EM_CONF[$_EXTKEY] = [
     'title'          => 'VIS',
     'description'    => 'Visualisation capabilities for research data in TYPO3',
-    'category'       => 'misc',
+    'category'       => 'services',
     'author'         => 'Jonatan Jalle Steller',
     'author_email'   => 'jonatan.steller@adwmainz.de',
     'author_company' => 'Academy of Sciences and Literature Mainz',
