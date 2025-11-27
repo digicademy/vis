@@ -2,7 +2,7 @@
     "name": "digicademy/vis",
     "version": "2.0.0",
     "type": "typo3-cms-extension",
-    "description": "Visualisation capabilities for research data in TYPO3",
+    "description": "VIS - Visualisation capabilities for research data in TYPO3",
     "authors": [
         {
             "name": "Jonatan Jalle Steller",
@@ -31,7 +31,7 @@
         "Academic"
     ],
     "require": {
-        "typo3/cms-core": "^13"
+        "typo3/cms-core": "^14"
     },
     "autoload": {
         "psr-4": {
