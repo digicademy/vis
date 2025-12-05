@@ -32,7 +32,7 @@ be as easy as adding the following template code:
 
 ..  code-block:: html
 
-    <vis:map id="location" center="49.97694543141242, 8.27104596963163, zoom="9.5">
+    <vis:map id="location" center="49.97694543141242, 8.27104596963163" zoom="9.5">
         {
             "type": "Feature",
             "geometry": {
@@ -43,6 +43,6 @@ be as easy as adding the following template code:
                 "name": "Academy of Sciences and Literature Mainz"
             }
         }
-    </vis.map>
+    </vis:map>
 
 VIS takes care of CSS/JS assets necessary to render the visualisation.
