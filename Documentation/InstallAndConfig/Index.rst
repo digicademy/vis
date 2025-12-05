@@ -10,13 +10,8 @@ Install and config
 
 1.  Install the extension
 
-    Add the package name to your ``composer.json`` or install the package
-    manually.
+    Add the package to your ``composer.json`` via a PHP Composer command:
 
-..  _display-a-visualisation:
+    ..  code-block::
 
-=======================
-Display a visualisation
-=======================
-
-TBD
+        composer require digicademy/vis:^2
