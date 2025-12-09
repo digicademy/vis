@@ -15,3 +15,15 @@ Install and config
     ..  code-block::
 
         composer require digicademy/vis:^2
+
+2.  Integrate styles
+
+    Integrate the following minimal style into your CSS to make sure that visualisation containers are visible:
+
+    ..  code-block:: css
+
+        .mdlr-frame {
+            min-height: 500px;
+        }
+
+    If you use the `MDLR <https://github.com/digicademy/mdlr>`__ extension, styles are provided automatically.
